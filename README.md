@@ -1,2 +1,6 @@
 # BadAvatar-Repack
-BadAvatar Repack (just extract it to the root of ur usb and you're ready)
+
+### Setup:
+- Download [BadAvatar-Repack.zip](https://github.com/ConzZah/BadAvatar-Repack/releases/download/x/BadAvatar-Repack.zip)
+- Extract the contents of the .zip file to the root of ur usb drive
+- Congratz, you're ready.
